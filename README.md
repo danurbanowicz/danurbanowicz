@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Dan
 
-<!--
-**danurbanowicz/danurbanowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a front-end web developer obsessed with static site generators and web performance
 
-Here are some ideas to get you started:
+⚡ Newsflash ⚡
+_I'm looking for a full-time position (remote) and would love to work on something Jamstack related. Reach out if you know of something: dan.urbanowicz@gmail.com_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- :smiley: He/Him
+- :mouse: Obsessed with Eleventy and basically all static site generators
+- :earth_americas: Originally from London :uk: now living in Barcelona :es:
+- :bulb: Currently building a library of Jamstack starter templates
+- :loudspeaker: Parlo català
+- ⚡ Fun fact: Is a professionally trained photographer
