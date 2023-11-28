@@ -1,6 +1,6 @@
 # Hi, I'm Dan
 
-### A front-end web developer interested in static site generators and web performance
+## I'm a front-end web developer interested in static site generators and web performance
 
 ⚡ Newsflash ⚡
 _I'm looking for a full-time position (remote) and would love to work on something Jamstack related. Please reach out at dan.urbanowicz@gmail.com_
